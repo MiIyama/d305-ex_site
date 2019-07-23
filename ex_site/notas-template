@@ -1,0 +1,9 @@
+criar ambiente
+estrutura django etc
+
+
+base html padrao para todos
+    se altero um altera pra todos
+
+    {{ .... }} imprimi na tela
+    { #.....# } comentario django
